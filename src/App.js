@@ -387,8 +387,9 @@ function App() {
             }}
           >
             Please make sure you are connected to the right network (
-            {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
+            {CONFIG.NETWORK.NAME} Testnet) and the correct address. Please note:
             Once you make the purchase, you cannot undo this action.
+            You can mint NFT with {CONFIG.NETWORK.NAME} Testnet {CONFIG.NETWORK.SYMBOL}
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
