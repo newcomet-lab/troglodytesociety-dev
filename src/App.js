@@ -282,7 +282,7 @@ function App() {
                         color: "var(--accent-text)",
                       }}
                     >
-                      Connect to the {CONFIG.NETWORK.NAME} network
+                      Connect to the {CONFIG.NETWORK.NAME} Testnet
                     </s.TextDescription>
                     <s.SpacerSmall />
                     <StyledButton
